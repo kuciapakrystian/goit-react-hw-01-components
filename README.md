@@ -3,7 +3,7 @@
 
 # doing homework while studying in bootcamp @GoIT on Fullstack developer course
 ## Project Specifications:
-React module(states/hooks/derived states/events/props/forms)
+React module(homework1)
 ## Languages and Tools:
 <div align="center">  
  
